@@ -1,0 +1,4 @@
+S1 rejected: minimum balance 1000
+C1 balance -4000
+S1 balance 2000
+C1 rejected: overdraft limit 5000

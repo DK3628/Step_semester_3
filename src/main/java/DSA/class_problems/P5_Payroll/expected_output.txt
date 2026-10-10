@@ -1,0 +1,5 @@
+Payslip[name=Asha, type=FullTime, pay=50000]
+Payslip[name=Ravi, type=PartTime, pay=24000]
+Payslip[name=Neha, type=Intern, pay=15000]
+Total 89000
+top earner Asha

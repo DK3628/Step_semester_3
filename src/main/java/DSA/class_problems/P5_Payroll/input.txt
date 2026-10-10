@@ -1,0 +1,3 @@
+FullTime Asha 50000
+PartTime Ravi 80 300
+Intern Neha 15000

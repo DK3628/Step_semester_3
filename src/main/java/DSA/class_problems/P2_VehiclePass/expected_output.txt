@@ -1,0 +1,4 @@
+KA01 (Bike) pass fee 300
+KA02 (ECar) pass fee 1000
+KA02 charging bay allotted
+KA01 rejected: charging unsupported
